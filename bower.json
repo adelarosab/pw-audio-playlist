@@ -2,7 +2,7 @@
   "name": "pw-audio-playlist",
   "version": "1.0.0",
   "authors": [
-    "Anonymous <anonymous@example.com>"
+    "Adrian de la Rosa <adrian@delarosab.me>"
   ],
   "description": "Audio playlist component",
   "keywords": [
@@ -14,10 +14,6 @@
   "main": "pw-audio-playlist.html",
   "license": "https://raw.githubusercontent.com/adelarosab/pw-audio-playlist/master/LICENSE",
   "homepage": "https://github.com/adelarosab/pw-audio-playlist/",
-  "ignore": [
-    "/.*",
-    "/test/"
-  ],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0"
   },
