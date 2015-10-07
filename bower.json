@@ -1,0 +1,27 @@
+{
+  "name": "pw-audio-playlist",
+  "version": "1.0.0",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "Audio playlist component",
+  "keywords": [
+    "web-component",
+    "polymer",
+    "audio",
+    "playlist"
+  ],
+  "main": "pw-audio-playlist.html",
+  "license": "https://raw.githubusercontent.com/adelarosab/pw-audio-playlist/master/LICENSE",
+  "homepage": "https://github.com/adelarosab/pw-audio-playlist/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  }
+}
